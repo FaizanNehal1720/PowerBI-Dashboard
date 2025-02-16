@@ -67,6 +67,7 @@ Marketing Campaign ROI – Performance of promotional campaigns.
 ✔️ Marketing strategies should focus on increasing direct bookings to reduce commission costs.
 
 🚀 Next Steps:
+
 Automate data updates for real-time monitoring.
 
 Integrate machine learning models for predictive analytics (e.g., demand forecasting).
