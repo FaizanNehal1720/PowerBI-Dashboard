@@ -30,7 +30,7 @@ Staff Performance Metrics – Employee productivity and service quality ratings.
 Direct vs. Third-Party Bookings – Percentage of bookings from direct channels vs. OTAs (e.g., Expedia, Booking.com).
 Marketing Campaign ROI – Performance of promotional campaigns.
 
-- Dashboard Interaction <a href="https://github.com/FaizanNehal1720/PowerBI-Dashboard/blob/main/1.png"> View Dashboard</a>
+6️⃣ Dashboard Interaction <a href="https://github.com/FaizanNehal1720/PowerBI-Dashboard/blob/main/1.png"> View Dashboard</a>
 
 ## Process
 
