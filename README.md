@@ -31,3 +31,18 @@ Direct vs. Third-Party Bookings – Percentage of bookings from direct channels 
 Marketing Campaign ROI – Performance of promotional campaigns.
 
 - Dashboard Interaction <a href="https://github.com/FaizanNehal1720/PowerBI-Dashboard/blob/main/1.png"> View Dashboard</a>
+
+## Process
+
+1️⃣ Data Collection
+
+2️⃣ Data Cleaning & Preprocessing
+
+3️⃣ Data Analysis & KPI Calculation
+
+4️⃣ Data Visualization & Dashboard Design
+
+5️⃣ Insights & Business Recommendations
+
+6️⃣ Deployment & Continuous Monitoring
+
