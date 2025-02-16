@@ -49,4 +49,24 @@ Marketing Campaign ROI – Performance of promotional campaigns.
 ## DashBoard
 ![1](https://github.com/user-attachments/assets/ccc007b4-d87f-417e-87d5-1694014b3b1c)
 
+## Project Insights
+1️⃣ Revenue & Occupancy Trends
+
+2️⃣ Customer Behavior & Satisfaction
+
+3️⃣ Operational Performance
+
+## Final Conclusion & Recommendations
+✅ Key Takeaways:
+✔️ Data-driven pricing strategies can maximize revenue during peak seasons.
+✔️ Improving guest experience through personalized services increases customer retention.
+✔️ Operational optimizations in housekeeping and front desk operations lead to better efficiency.
+✔️ Marketing strategies should focus on increasing direct bookings to reduce commission costs.
+
+🚀 Next Steps:
+Automate data updates for real-time monitoring.
+Integrate machine learning models for predictive analytics (e.g., demand forecasting).
+Expand insights with additional datasets (e.g., social media sentiment, competitor benchmarking).
+
+This project provides valuable insights to improve revenue, efficiency, and guest satisfaction, making data-driven decisions a key competitive advantage in the hospitality industry
 
